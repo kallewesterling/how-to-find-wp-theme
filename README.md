@@ -32,7 +32,7 @@ You should be able to find one or two occurrences of `style.css` in your code. I
 
 Pro-tip: You can [read more about child and parent themes on the WordPress developer pages](https://developer.wordpress.org/themes/advanced-topics/child-themes/) but suffice here to say that the definition of a child theme is that it "inherits the look and feel of the parent theme and all of its functions, but can be used to make modifications to any part of the theme. In this way, customizations are kept separate from the parent theme’s files. Using a child theme lets you upgrade the parent theme without affecting the customizations you’ve made to your site."
 
-<img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-05.png" width="50%" />
+<img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-05.png" width="100%" />
 
 ## Step 4: Investigate the CSS file(s)
 
@@ -44,6 +44,6 @@ Once you have the CSS-files for the theme open, you can read about who made the 
 
 The `Theme-URI` (if it is noted in your CSS file) can tell you more about the theme. Just copy and paste the link into your browser window to read more about which theme it is.
 
-<img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-06.png" width="50%" />
+<img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-06.png" width="100%" />
 
-<img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-07.png" width="50%" />
+<img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-07.png" width="100%" />
