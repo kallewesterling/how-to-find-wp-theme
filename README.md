@@ -46,4 +46,4 @@ The `Theme-URI` (if it is noted in your CSS file) can tell you more about the th
 
 <img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-06.png" width="100%" />
 
-<img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-07.png" width="100%" />
+<img src="https://github.com/kallewesterling/how-to-find-wp-theme/blob/master/screen-07.png" width="50%" />
