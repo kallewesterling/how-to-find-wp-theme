@@ -40,7 +40,7 @@ Fourth, open the CSS-file (or both the CSS-files if you found two) by clicking t
 
 _(The hyperlinks are blue in the past screenshot and should be clickable; if they're not you can always copy and paste the link to each CSS file into your browser window and navigate to them that way.)_
 
-Once you have the CSS-files for the theme open, you can read about who made the theme: in this case, Anders Noren's excellent Fukusawa was used. (In our case here, you can also see that the child theme was made by yours truly.)
+Once you have the CSS-files for the theme open, you can read about who made the theme: in this case, Anders Noren's excellent [Fukusawa](https://www.andersnoren.se/teman/fukasawa-wordpress-theme/) was used. (In our case here, you can also see that the child theme was made by yours truly.)
 
 The `Theme-URI` (if it is noted in your CSS file) can tell you more about the theme. Just copy and paste the link into your browser window to read more about which theme it is.
 
